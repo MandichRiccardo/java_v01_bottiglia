@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Bottiglia
+comment1.params=materiale\ capacita\ colore
+comment1.target=Bottiglia(java.lang.String,\ double,\ java.lang.String)
+comment2.params=b
+comment2.target=Bottiglia(Bottiglia)
+comment3.params=etichetta
+comment3.target=boolean\ setEtichetta(java.lang.String)
+comment4.params=etichetta
+comment4.target=void\ riempi(java.lang.String)
+comment5.params=daUsare
+comment5.target=double\ usa(double)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
